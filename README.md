@@ -25,7 +25,6 @@
 
 ## Demo
 
-Online demo: https://adminlte-react.erdkse.com
 
 To login website use:
 
@@ -44,5 +43,3 @@ Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 ## License
 
 [![License](https://img.shields.io/github/license/erdkse/adminlte-3-react.svg)](/LICENSE)
-
-Released 2021 by [Erdi Köse](https://erdkse.com)
